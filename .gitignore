@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+.venv/
+
+# Django
+media/
+
+# Node
+node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+
+library_backup.sql
